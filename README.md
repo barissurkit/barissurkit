@@ -96,25 +96,65 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💰 Bütçe Dostum</h3>
 
-<a href="https://github.com/barissurkit/butcedostum">
-  <img
-    height="135"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=barissurkit&repo=butcedostum&theme=tokyonight&hide_border=true"
-    alt="Bütçe Dostum repository"
-  />
-</a>
+      <p align="center">
+        A budget management project designed to make personal finance tracking easier.
+      </p>
 
-<a href="https://github.com/barissurkit/impostra">
-  <img
-    height="135"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=barissurkit&repo=impostra&theme=tokyonight&hide_border=true"
-    alt="Impostra repository"
-  />
-</a>
+      <p align="center">
+        <img
+          src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
+          alt="TypeScript"
+        />
+        <img
+          src="https://img.shields.io/badge/Web%20Development-111827?style=flat-square"
+          alt="Web Development"
+        />
+      </p>
 
-</div>
+      <p align="center">
+        <a href="https://github.com/barissurkit/butcedostum">
+          <img
+            src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+            alt="View Bütçe Dostum"
+          />
+        </a>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3 align="center">🎭 Impostra</h3>
+
+      <p align="center">
+        An object-oriented programming project developed to practise Java concepts.
+      </p>
+
+      <p align="center">
+        <img
+          src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"
+          alt="Java"
+        />
+        <img
+          src="https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=flat-square"
+          alt="Object-Oriented Programming"
+        />
+      </p>
+
+      <p align="center">
+        <a href="https://github.com/barissurkit/impostra">
+          <img
+            src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+            alt="View Impostra"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
