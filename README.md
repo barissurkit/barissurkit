@@ -106,11 +106,11 @@
   />
 </a>
 
-<a href="https://github.com/barissurkit/12_ogrenci_not_analiz_sistemi">
+<a href="https://github.com/barissurkit/impostra">
   <img
     height="135"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=barissurkit&repo=12_ogrenci_not_analiz_sistemi&theme=tokyonight&hide_border=true"
-    alt="Student Grade Analysis System repository"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=barissurkit&repo=impostra&theme=tokyonight&hide_border=true"
+    alt="Impostra repository"
   />
 </a>
 
