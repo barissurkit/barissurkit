@@ -96,6 +96,30 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/barissurkit">
+  <img
+    height="175"
+    src="https://github-stats-extended.vercel.app/api?username=barissurkit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Barış's GitHub statistics"
+  />
+</a>
+
+<a href="https://github.com/barissurkit">
+  <img
+    height="175"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=barissurkit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
+    alt="Barış's most used languages"
+  />
+</a>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -103,7 +127,7 @@
 <a href="https://github.com/barissurkit/butcedostum">
   <img
     height="135"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=barissurkit&repo=butcedostum&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/pin?username=barissurkit&repo=butcedostum&theme=tokyonight&hide_border=true"
     alt="Bütçe Dostum repository"
   />
 </a>
@@ -111,14 +135,12 @@
 <a href="https://github.com/barissurkit/impostra">
   <img
     height="135"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=barissurkit&repo=impostra&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/pin?username=barissurkit&repo=impostra&theme=tokyonight&hide_border=true"
     alt="Impostra repository"
   />
 </a>
 
 </div>
-
----
 
 ## 🎯 Current Learning Goals
 
