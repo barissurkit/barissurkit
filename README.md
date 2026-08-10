@@ -28,10 +28,6 @@
 
 - 🎓 I'm a **Computer Engineering student**.
 - 🤖 I'm interested in **Data Science, Machine Learning and Artificial Intelligence**.
-- 🐍 I'm currently improving my **Python and data analysis** skills.
-- 🧠 I enjoy learning by building practical projects.
-- 🌱 I'm continuously improving my software development knowledge.
-- 🌍 I'm also working on improving my English.
 - 📚 I share my learning projects and exercises on GitHub.
 
 ---
