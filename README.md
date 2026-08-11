@@ -1,29 +1,20 @@
-<div align="center">
-
-# Barış Sürkit
+# Hi, I'm Barış 👋
 
 ### Computer Engineering Student
 
-**Data Science · Machine Learning · Artificial Intelligence**
+Interested in **Machine Learning, Data Science and Artificial Intelligence**.
+I enjoy learning by building projects and turning what I learn into practice.
 
-I build projects to improve my skills in
-**software development, data analysis and machine learning.**
+## Tech
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react" />
 
-## Tech Stack
+`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib`
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css" />
+## Currently Exploring
 
-<br><br>
+Machine Learning · Data Analysis · AI · Software Development
 
-`Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn`
+## Projects
 
-<br>
-
-## Currently
-
-Exploring **Machine Learning, Data Science and AI**
-while building practical projects along the way.
-
-</div>
+Check out my repositories to see what I'm currently building and learning.
