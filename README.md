@@ -1,116 +1,31 @@
 <div align="center">
 
-# Hi, I'm Barış Sürkit 👋
+# Barış Sürkit
 
-### Computer Engineering Student  
-### Data Science & Machine Learning Enthusiast
+**Computer Engineering Student**
 
-<img
-  src="https://img.shields.io/badge/Computer%20Engineering-Student-7C3AED?style=for-the-badge"
-  alt="Computer Engineering Student"
-/>
+Data Science · Machine Learning · Artificial Intelligence
 
-<img
-  src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20Machine%20Learning-2563EB?style=for-the-badge"
-  alt="Data Science and Machine Learning"
-/>
+<br>
 
-<img
-  src="https://img.shields.io/badge/Location-Edirne%2C%20Türkiye-E11D48?style=for-the-badge"
-  alt="Edirne, Türkiye"
-/>
+I enjoy learning by building projects and exploring
+**software development, data and machine learning.**
 
-</div>
+<br>
 
----
+### Tech Stack
 
-## 👨‍💻 About Me
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,git,github,linux,vscode" />
 
-- 🎓 I'm a **Computer Engineering student**.
-- 🤖 I'm interested in **Data Science, Machine Learning and Artificial Intelligence**.
-- 📚 I share my learning projects and exercises on GitHub.
+<br><br>
 
----
+`Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn`
 
-## 🛠️ Technologies and Tools
+<br>
 
-<div align="center">
+### Currently
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<br></br>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+📚 Learning **Machine Learning & Data Science**
+💻 Building projects and improving my software development skills
 
 </div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/barissurkit">
-  <img
-    height="175"
-    src="https://github-stats-extended.vercel.app/api?username=barissurkit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Barış Sürkit's GitHub statistics"
-  />
-</a>
-
-<a href="https://github.com/barissurkit">
-  <img
-    height="175"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=barissurkit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
-    alt="Barış Sürkit's most used languages"
-  />
-</a>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/barissurkit/butcedostum">
-  <img
-    height="135"
-    src="https://github-stats-extended.vercel.app/api/pin?username=barissurkit&repo=butcedostum&theme=tokyonight&hide_border=true"
-    alt="Bütçe Dostum repository"
-  />
-</a>
-
-<a href="https://github.com/barissurkit/impostra">
-  <img
-    height="135"
-    src="https://github-stats-extended.vercel.app/api/pin?username=barissurkit&repo=impostra&theme=tokyonight&hide_border=true"
-    alt="Impostra repository"
-  />
-</a>
-
-</div>
-
----
-
-## 🎯 Current Learning Goals
-
-```text
-📌 Data Science and Data Analysis
-📌 Machine Learning Fundamentals
-📌 Python Project Development
-📌 Object-Oriented Programming
-📌 Git and GitHub
-📌 English for Software Development
-```
