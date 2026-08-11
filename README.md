@@ -2,20 +2,18 @@
 
 # Barış Sürkit
 
-**Computer Engineering Student**
+### Computer Engineering Student
 
-Data Science · Machine Learning · Artificial Intelligence
+**Data Science · Machine Learning · Artificial Intelligence**
 
-<br>
-
-I enjoy learning by building projects and exploring
-**software development, data and machine learning.**
+I build projects to improve my skills in
+**software development, data analysis and machine learning.**
 
 <br>
 
-### Tech Stack
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css" />
 
 <br><br>
 
@@ -23,9 +21,9 @@ I enjoy learning by building projects and exploring
 
 <br>
 
-### Currently
+## Currently
 
-📚 Learning **Machine Learning & Data Science**
-💻 Building projects and improving my software development skills
+Exploring **Machine Learning, Data Science and AI**
+while building practical projects along the way.
 
 </div>
