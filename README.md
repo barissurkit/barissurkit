@@ -22,18 +22,6 @@ I work between full-stack development, data analysis, and AI tooling. I like tur
 - [Customer Churn Analysis](https://github.com/barissurkit/customer-churn-analysis): EDA and Logistic Regression on the IBM Telco dataset (7,043 customers)
 - [Impostra](https://github.com/barissurkit/impostra): multiplayer social-deduction game with a cybersecurity theme (Java, JavaFX, KryoNet)
 
-## now
-
-- Software Development Intern (August 2026)
-- B.Sc. Computer Engineering, Trakya University (expected 2028)
-- Huawei Student Developers Data Science & Machine Learning program; Huawei ICT Academy Computer Networks Bootcamp (2026–2027)
-
-## links
-
-- Portfolio: [barissurkit.com](https://barissurkit.com)
-- [LinkedIn](https://www.linkedin.com/in/barissurkit/)
-- [Email](mailto:baris.surkit.dev@gmail.com)
-
 ## Lisans
 
 [MIT](LICENSE)
