@@ -25,18 +25,6 @@ More: [BütçeDostum](https://github.com/barissurkit/butcedostum) (budget tracke
 
 Python · TypeScript · JavaScript · SQL · FastAPI · Next.js · React · PostgreSQL · Prisma · Pandas · Scikit-learn · Git · Linux
 
-## now
-
-- Software Development Intern (August 2026)
-- B.Sc. Computer Engineering, Trakya University (expected 2028)
-- Huawei Student Developers Data Science & Machine Learning program; Huawei ICT Academy Computer Networks Bootcamp (2026–2027)
-
-## links
-
-- Portfolio: [barissurkit.com](https://barissurkit.com)
-- [LinkedIn](https://www.linkedin.com/in/barissurkit/)
-- [Email](mailto:baris.surkit.dev@gmail.com)
-
 ## Lisans
 
 [MIT](LICENSE)
