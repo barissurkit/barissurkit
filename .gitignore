@@ -1,0 +1,16 @@
+# Python cache (tests are written with unittest)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+
+# Editors and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
