@@ -1,27 +1,38 @@
-# Hi, I'm Barış 👋
+# Barış Sürkit
 
-This repository is my GitHub profile README, introducing who I am, what I am interested in and the technologies I work with.
+Software developer and Computer Engineering student building reliable products across software, AI, data, and the web.
 
-### Computer Engineering Student
-
-Interested in **Machine Learning, Data Science and Artificial Intelligence**.
-I enjoy learning by building projects and turning what I learn into practice.
-
-## Tech
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react" />
+I work between full-stack development, data analysis, and AI tooling. I like turning a vague idea into a working, tested system, and I learn best by building projects end to end.
 
 [![DevLens portföy skoru](https://api.devlens.barissurkit.com/api/v1/badge/barissurkit.svg)](https://devlens.barissurkit.com/u/barissurkit)
 
-`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib`
+## focus areas
 
-## Currently Exploring
+- Python, TypeScript, JavaScript, SQL
+- FastAPI, Next.js, React, REST APIs, GitHub OAuth + PKCE
+- RAG and AI-assisted products: retrieval, citations, streaming answers
+- Data analysis and machine learning: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter
+- PostgreSQL, Prisma, SQLite; Git, GitHub, Linux
 
-Machine Learning · Data Analysis · AI · Software Development
+## selected work
 
-## Projects
+- [AI Search Engine](https://github.com/barissurkit/ai-search-engine): citation-aware research workspace combining live web search, selected-document retrieval, and hybrid RAG, with SSE streaming (React, FastAPI, Qdrant, Ollama)
+- [DevLens](https://github.com/barissurkit/DevLens): GitHub portfolio analyzer with deterministic repository scoring and optional AI interpretation (Next.js, FastAPI, PostgreSQL)
+- [BütçeDostum](https://github.com/barissurkit/butcedostum): full-stack personal budget tracker with JWT auth (Next.js, Prisma, PostgreSQL)
+- [Customer Churn Analysis](https://github.com/barissurkit/customer-churn-analysis): EDA and Logistic Regression on the IBM Telco dataset (7,043 customers)
+- [Impostra](https://github.com/barissurkit/impostra): multiplayer social-deduction game with a cybersecurity theme (Java, JavaFX, KryoNet)
 
-Check out my repositories to see what I'm currently building and learning.
+## now
+
+- Software Development Intern (August 2026)
+- B.Sc. Computer Engineering, Trakya University (expected 2028)
+- Huawei Student Developers Data Science & Machine Learning program; Huawei ICT Academy Computer Networks Bootcamp (2026–2027)
+
+## links
+
+- Portfolio: [barissurkit.com](https://barissurkit.com)
+- [LinkedIn](https://www.linkedin.com/in/barissurkit/)
+- [Email](mailto:baris.surkit.dev@gmail.com)
 
 ## Lisans
 
